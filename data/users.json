@@ -1,0 +1,18 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@mail.com",
+        "password": "admin",
+        "RoleId": 1,
+        "phoneNumber": "12345678",
+        "address": "Jakarta, Jl. Jawa 3 Blok J3 No.20"
+    },
+    {
+        "username": "sakirsyarian",
+        "email": "sakirsyarian@mail.com",
+        "password": "sakirsyarian",
+        "RoleId": 2,
+        "phoneNumber": "87654321",
+        "address": "Bandung, Jl. Sunatra 2 Blok K5 No.10"
+    }
+]

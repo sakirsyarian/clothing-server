@@ -1,0 +1,137 @@
+[
+    {
+        "name": "JavaScript",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 56000,
+        "stock": 12,
+        "image": "js.png",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "name": "Vue",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 55000,
+        "stock": 11,
+        "image": "vu.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "React",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 59000,
+        "stock": 18,
+        "image": "rt.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "Python",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 60000,
+        "stock": 15,
+        "image": "py.png",
+        "CategoryId": 1,
+        "UserId": 1
+    },
+    {
+        "name": "PHP",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 58000,
+        "stock": 10,
+        "image": "ph.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "Java",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 51000,
+        "stock": 12,
+        "image": "jv.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "Go",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 53000,
+        "stock": 7,
+        "image": "go.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "Node",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 57000,
+        "stock": 16,
+        "image": "nj.png",
+        "CategoryId": 1,
+        "UserId": 2
+    },
+    {
+        "name": "JavaScript Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 105899,
+        "stock": 18,
+        "image": "js-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "Go Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 102499,
+        "stock": 10,
+        "image": "go-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "Laravel Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 100899,
+        "stock": 14,
+        "image": "lv-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "Python Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 101299,
+        "stock": 8,
+        "image": "py-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "Kotlin Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 103799,
+        "stock": 12,
+        "image": "kl-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "Java Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 104699,
+        "stock": 10,
+        "image": "jv-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    },
+    {
+        "name": "React Premium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu nisl nunc mi ipsum faucibus vitae. Tempor nec feugiat nisl pretium fusce.",
+        "price": 108499,
+        "stock": 20,
+        "image": "rt-putih.png",
+        "CategoryId": 2,
+        "UserId": 2
+    }
+]
